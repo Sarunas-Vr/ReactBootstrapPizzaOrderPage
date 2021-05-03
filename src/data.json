@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Chicago Pizza",
+    "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amounts of cheese and a chunky tomato sauce.",
+    "price": 9
+  },
+  {
+    "id": 2,
+    "name": "Neapolitan Pizza",
+    "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "desc": "This style of pizza is prepared with simple and fresh ingredients: a basic dough, raw tomatoes, fresh mozzarella cheese, fresh basil, and olive oil. A fantastic original pizza.",
+    "price": 7
+  },
+  {
+    "id": 3,
+    "name": "New York Pizza",
+    "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "desc": "New York-style pizza has slices that are large and wide with a thin crust that is foldable yet crispy. It is traditionally topped with tomato sauce and mozzarella cheese.",
+    "price": 17
+  },
+  {
+    "id": 4,
+    "name": "Sicilian Pizza",
+    "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "desc": "Sicilian pizza is pizza prepared in a manner that originated in Sicily, Italy. Sicilian pizza is also known as sfincione or focaccia with toppings. A great tasteful pizza all around.",
+    "price": 6
+  },
+  {
+    "id": 5,
+    "name": "Chicago Pizza",
+    "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "desc": "Lorem ipsum is the really old fashioned text machine",
+    "price": 13
+  }
+]
